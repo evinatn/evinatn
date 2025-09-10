@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Master's student in Computer Science graduating in May 2025 with a 3.8/4.0 GPA, specializing in machine learning and data science. My passion lies in using data to solve complex problems and build impactful applications.
+I'm a Master's student in Computer Science who graduated in May 2025 with a 3.8/4.0 GPA, specializing in machine learning and data science. My passion lies in using data to solve complex problems and build impactful applications.
 
 ## What I'm Looking For / Career Goals 🚀
 I am seeking full-time opportunities as a Machine Learning Engineer or Data Scientist. My goal is to apply my skills in data analysis, model development, and collaborative problem-solving to build impactful, data-driven solutions.
